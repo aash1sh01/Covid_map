@@ -1,0 +1,18 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=C:\\src\\flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\cloud_firestore-0.14.0+2\\
+cloud_firestore_web=C:\\src\\flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\cloud_firestore_web-0.2.0+1\\
+firebase_auth=C:\\src\\flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_auth-0.18.0+1\\
+firebase_auth_web=C:\\src\\flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_auth_web-0.3.0+1\\
+firebase_core=C:\\src\\flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_core-0.5.0\\
+firebase_core_web=C:\\src\\flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_core_web-0.2.0\\
+firebase_storage=C:\\src\\flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_storage-4.0.0\\
+flutter_plugin_android_lifecycle=C:\\src\\flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\flutter_plugin_android_lifecycle-1.0.8\\
+geocoding=C:\\src\\flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\geocoding-1.0.3\\
+geolocator=C:\\src\\flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\geolocator-6.0.0+4\\
+google_maps_flutter=C:\\src\\flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\google_maps_flutter-0.5.31\\
+location=C:\\src\\flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\location-3.0.2\\
+location_web=C:\\src\\flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\location_web-1.0.0\\
+url_launcher=C:\\src\\flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\url_launcher-5.5.3\\
+url_launcher_linux=C:\\src\\flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\url_launcher_linux-0.0.1+1\\
+url_launcher_macos=C:\\src\\flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\url_launcher_macos-0.0.1+7\\
+url_launcher_web=C:\\src\\flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\url_launcher_web-0.1.3+2\\

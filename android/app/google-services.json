@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "21021528938",
+    "firebase_url": "https://covid-map-1005b.firebaseio.com",
+    "project_id": "covid-map-1005b",
+    "storage_bucket": "covid-map-1005b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21021528938:android:2a0627cf4ed4ca28608b13",
+        "android_client_info": {
+          "package_name": "com.example.covid_map"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21021528938-8neuqbaceq466b7i4oecb1ietlrenp8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgbaL10Mp6BpJMgJtrt5_487DkcIs0DMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21021528938-8neuqbaceq466b7i4oecb1ietlrenp8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
